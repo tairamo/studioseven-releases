@@ -7,5 +7,6 @@ Each app uses its own tag prefix, and every asset carries its version in the fil
 | App | Tag prefix | Asset |
 |-----|-----------|-------|
 | Pure Harmony Admin | `pureharmony-admin-v<version>` | `PureHarmony-<version>.dmg` |
+| Ether Cloud | `ether-cloud-v<version>` | `EtherCloud-<version>.dmg` |
 
 Apps auto-update through Sparkle; the appcast for each app points at the release assets here.
